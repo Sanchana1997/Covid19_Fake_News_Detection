@@ -1,5 +1,4 @@
 # Covid19_Fake_News_Detection
-
 Objective:
 Classified News as Fake or Real based on information gathered from various online sources about covid
 
